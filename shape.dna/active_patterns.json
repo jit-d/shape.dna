@@ -1,5 +1,5 @@
 {
-  "scan_date": "2026-11-17T19:24:35.655298",
+  "scan_date": "2026-11-18T19:04:06.754210",
   "total_stocks_scanned": 492,
   "active_patterns_count": 43,
   "patterns": [
@@ -708,24 +708,6 @@
     {
       "pattern": "symmetrical_triangle",
       "status": "active",
-      "confidence": -27.9,
-      "urgency_score": -0.0,
-      "breakout_direction": "up",
-      "breakout_level": 541.72,
-      "current_price": 480.3,
-      "distance_to_breakout_pct": 10,
-      "days_to_apex": 165,
-      "support_slope": 0.1247,
-      "resistance_slope": -0.1537,
-      "target": 516.34,
-      "stop_loss": 495.76,
-      "volume_confirmed": 0,
-      "symbol": "HEXT.NS",
-      "date": "2026-11-16"
-    },
-    {
-      "pattern": "symmetrical_triangle",
-      "status": "active",
       "confidence": 0.5,
       "urgency_score": 0.0,
       "breakout_direction": "up",
@@ -739,6 +721,24 @@
       "stop_loss": 1226.95,
       "volume_confirmed": 0,
       "symbol": "SCHNEIDER.NS",
+      "date": "2026-11-16"
+    },
+    {
+      "pattern": "symmetrical_triangle",
+      "status": "active",
+      "confidence": -27.9,
+      "urgency_score": -0.0,
+      "breakout_direction": "up",
+      "breakout_level": 541.72,
+      "current_price": 480.3,
+      "distance_to_breakout_pct": 10,
+      "days_to_apex": 165,
+      "support_slope": 0.1247,
+      "resistance_slope": -0.1537,
+      "target": 516.34,
+      "stop_loss": 495.76,
+      "volume_confirmed": 0,
+      "symbol": "HEXT.NS",
       "date": "2026-11-16"
     },
     {
